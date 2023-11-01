@@ -12,13 +12,10 @@ Before running the script, you need to ensure that you have the following librar
 6.matplotlib (for data visualization)
 You can install these libraries using pip command
 
-**Usage**
-The Python script will do the following-
+The Web scraping Python script will perform the following steps to get sentiment analysis result and wordcloud image-
 1.Send an HTTP request to the IMDb URL provided in the url variable.
 2.Scrape the top 50 reviews from the IMDb page.
 3.Perform sentiment analysis on each review, classifying them as positive and negative.
 4.Generate a bar chart to visualize the distribution of sentiments and calculate the average sentiment scores for each category.
 5.Perform TF-IDF analysis on the reviews to identify significant words.
 6.Create a word cloud chart to visualize the most significant words.
-
-
