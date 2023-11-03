@@ -1,7 +1,29 @@
-# IMDb Movie Review Analysis #
-This Python script scrapes IMDb movie reviews, performs sentiment analysis on the top 50 reviews, groups the sentiments into positive and negative categories, and generates a bar chart to visualize the sentiment distribution. It also calculates the average sentiment scores for each category. Additionally, the script performs TF-IDF analysis, rating distribution, review length, and textual clustering on the reviews and creates charts to visualize insights.
+![Alt text](image.png)# IMDb Movie Review Analysis # ![Alt text](image.png)
 
-**Python file**- _Web Scraping Project-IMDB Movie Review Analysis.ipynb_
+![Alt text](movie_poster_collage.jpg)
+
+1.The IMDB Avengers movie review analysis python script scrapes IMDb movie reviews, performs sentiment analysis on the top 50 reviews, groups the sentiments into positive and negative categories, and generates a bar chart to visualize the sentiment distribution. It also calculates the average sentiment scores for each category. Additionally, the script performs TF-IDF analysis, rating distribution, review length, and textual clustering on the reviews and creates charts to visualize insights.
+
+2.The Web Scraping for 250 movies Python script scrapes the IMDb top 250 movies with ther genre, actors, directors, ratings, gross, storyline and votes columns. Created a dataframe df and manipulated the data where i checked and imputed the missing values, converted the data types of numerical columns from objects. 
+I have created the charts 
+
+1.To see the distribution of top 25 movies by votes
+
+2.Gross Earnings of Top 10 Movies till these years
+
+3. Word Cloud chart to identify the important words by reading the storyline of all the movies.
+
+4. To see the correlation among the numerical variables.
+
+5.To see the distribution of ratings to understand how users rate the movies.
+
+6. Generated movie posters for the top 10 movies.
+
+7. Pie chart of Distribution of genres categories by no of movies.
+
+
+**Python file** - 1. *Web Scraping Project-IMDB Movie Review Analysis.ipynb*
+                  2. *Web Scraping_IMDB site for 250 movies.ipynb*
 
 **Prerequisites**
 Before running the script, you need to ensure that you have the following libraries installed in your Python environment:
