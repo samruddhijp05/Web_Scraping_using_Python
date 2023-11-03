@@ -60,8 +60,9 @@ The Web scraping Python script will perform the following steps to get sentiment
 
 6.Create a word cloud chart to visualize the most significant words.
 
-**Code Overview**
+**Code Overview**- **IMDB Avengers movie review analysis**
 The Python code in this project performs the following analyses:
+
 **1. Sentiment Analysis-**
 We start by scraping the top 50 user reviews of a movie from IMDb. For each review, we calculate its sentiment polarity using TextBlob. The sentiment analysis results are divided into positive and negative categories.
 •	Positive Reviews: Count of positive sentiment reviews.
