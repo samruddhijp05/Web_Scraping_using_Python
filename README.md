@@ -19,7 +19,7 @@ I have created the charts
 
 6. Generated movie posters for the top 10 movies.
 
-7. Pie chart of Distribution of genres categories by no of movies.
+7. Pie chart of Distribution of genre categories by no of movies.
 
 
 **Python file** - 1. *Web Scraping Project-IMDB Movie Review Analysis.ipynb*
